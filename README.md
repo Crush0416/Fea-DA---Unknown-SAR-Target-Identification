@@ -6,15 +6,15 @@ This is a novel unknown sar target identification method based on feature extrac
 
 python 3.7, pytorch 1.6 
 
-First Step:
+# First Step:
 
      implement the data2mat.py to transform the original images into .mat type.
 
-Second Step:
+# Second Step:
 
      using the trian_FEN.py to trian the dataset, then use test_FEN.py to test, save the target features.
 
-Third Step:
+# Third Step:
     
     launch KLD-RPA.py, this is an unknown sar target joint discrimination scheme to realize high accuracy identification of unknown sar target.
 
@@ -24,6 +24,6 @@ Zeng, Z.; Sun, J.; Xu, C.; Wang, H. Unknown SAR Target Identification Method Bas
 
 thank you.
 
-contact:
-Zhiqiang Zeng
+contact:  
+Zhiqiang Zeng  
 zengzq@buaa.edu.cn
